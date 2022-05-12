@@ -1,2 +1,3 @@
 tests/99*
 tests/snippet-*.vtc
+.DS_Store
